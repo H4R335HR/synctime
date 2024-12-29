@@ -3,7 +3,7 @@
 
 This Python script fetches the current time from an NTP (Network Time Protocol) server, adjusts it to a specified timezone, and optionally adds a custom time offset before setting the system time. 
 
-###Why this script exists?
+### Why this script exists?
 - If you dont want to install ntp clients 
 
 ### Features:
